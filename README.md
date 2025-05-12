@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm a Data Analyst with sound knowledge in machine learning, data visualisation and statistical analysis teachniques. I'm currently pursuing Masters in Statistics at Loyola College, Chennai. I'm proficient in Python, R, SQL, Tableau, SPSS, Power BI and various data analysis tools. I'm also interested in graphic design and have expertise in Adobe Photoshop, Indesign and Illustrator. Adept in building statistical, machine learning and deep learning models that can help in predictive analysis, clustering and decision making. I've held various leadership positions and demonstrated excellent communication, presentation and time management skills during my college, internship and volunteering experiences. 
 
 <!--
 **Jwala-P/Jwala-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
